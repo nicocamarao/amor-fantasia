@@ -34,4 +34,4 @@ Three.js r158, MIT: https://github.com/mrdoob/three.js/blob/r158/LICENSE
 
 Mundo 3D a pantalla completa bajo el encabezado fijo, sin desplazamiento de la página. Cámara cercana que sigue al personaje, diseño adaptable a teléfono, inventario inferior y animación de recolección. Los diálogos pueden desplazarse internamente para mantener accesible su contenido en pantallas pequeñas.
 
-La versión anterior está respaldada en `../backups/amor-fantasia-v1-20261028-204745/`; se verificó que los 15 archivos fueran idénticos antes de editar.
+La versión anterior está respaldada en `../amor-fantasia-backups/amor-fantasia-v1-20261028-204745/`; se verificó que los 15 archivos fueran idénticos antes de editar.
